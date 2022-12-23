@@ -18,5 +18,5 @@ As most compatibility patches rework only marginal aspects of the code base this
 
 If you have questions or want to get in touch regarding this project please [start a discussion in this repository](https://github.com/ros-o/ros-o/discussions).
 
-If you want continue development of existing ROS One packages with support for newer distributions (e.g., in new upstream branches in the original repository or a fork) feel free to do so and each upstream package distributors can decide whether or not they want to package your version.
-To notify the community you can post a discussion here as well.
+If you want to continue development of existing ROS One packages with support for newer distributions (e.g., in new upstream branches in the original repository or a fork) feel free to do so and each upstream package distributor can decide whether or not they want to package your version.
+To notify the community you can post a discussion here and/or on ros discourse as well.
